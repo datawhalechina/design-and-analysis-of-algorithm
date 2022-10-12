@@ -55,12 +55,3 @@
 3. 10月16日-10月20日 优化与完善：对各个章节的内容、代码进行整理 
 
 
-
-
-### 项目负责人
-
-
-**曾而康**     手机(微信)：_13296500787_   
-CSDN:  [https://coldwater.blog.csdn.net/](url)
-牛客：[https://www.nowcoder.com/users/9973952](url)
-知乎：[https://www.zhihu.com/people/zengerkang](url)
