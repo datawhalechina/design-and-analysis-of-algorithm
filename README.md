@@ -3,7 +3,7 @@
 
 书籍《算法设计与分析基础(第3版)》以一种连贯、独特的思路讲解了各类经典算法模型，具有较为新颖的论述风格，源于经典又高于经典。本项目基于该书籍，对书籍的概念以笔记的形式进行记录和解读，重点对部分课后习题进行解答，力求在引导对基础算法知识理解的同时，增强读者对算法设计过程的思考和延申。
 
-<img src="[https://github.com/datawhalechina/design-and-analysis-of-algorithm/blob/main/docs/ch03/ch03-1.assets/background.jpg](https://baike.baidu.com/pic/%E7%AE%97%E6%B3%95%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80%EF%BC%88%E7%AC%AC3%E7%89%88%EF%BC%89/17509212/1/adaf2edda3cc7cd98d102d8b0d51363fb80e7bec3b1b?fr=lemma&fromModule=lemma_top-image&ct=single#aid=1&pic=adaf2edda3cc7cd98d102d8b0d51363fb80e7bec3b1b)" width="150" height="150" alt="图片不翼而飞"/>
+<a href = "https://img.shields.io/badge/Document-Ver1.0.0-blue.svg"></a>
 
 ### 立项理由
 
