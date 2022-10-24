@@ -21,7 +21,7 @@
 
 ### 书籍电子版
 
-[PDF](https://awesome-programming-books.github.io/algorithms/%E7%AE%97%E6%B3%95%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%88%86%E6%9E%90%EF%BC%88%E7%AC%AC3%E7%89%88%EF%BC%89.pdf)
+[算法设计与分析基础(第三版)PDF链接](https://awesome-programming-books.github.io/algorithms/%E7%AE%97%E6%B3%95%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%88%86%E6%9E%90%EF%BC%88%E7%AC%AC3%E7%89%88%EF%BC%89.pdf)
 
 
 ### 项目规划
